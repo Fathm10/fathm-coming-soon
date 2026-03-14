@@ -13,8 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
         return;
     }
 
-    const apiUrl =
-        'https://fathm-backend-coming-soon--fatm-back-team.replit.app';
+    const apiUrl = 'https://fathm-backend-coming-soon--fatm-back-team.replit.app/api/waitlist';
 
     const setMessage = (text, kind = 'success') => {
         message.textContent = text;

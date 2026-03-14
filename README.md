@@ -1,8 +1,27 @@
-![Auto Assign](https://github.com/Fathm10/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+# Fathm Coming Soon Page
 
-![Proof HTML](https://github.com/Fathm10/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+Official launch page for **fathm.net**
 
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+## Overview
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+Fathm is building a competitive ecosystem for indie developers combining:
+
+- Game distribution
+- Structured game jams
+- Creator monetization
+
+Creators will be able to **publish, compete, and earn**.
+
+## Deployment
+
+This site is deployed using **GitHub Pages**.
+
+Domain:
+https://fathm.net
+
+## Stack
+
+- Static HTML
+- CSS
+- Vanilla JavaScript
+- GitHub Pages

@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     const apiUrl =
-        'https://d4aae0f2-e9d0-4d56-9434-e3640c077ee8-00-3py1sozsgbeqn.pike.replit.dev';
+        'https://fathm-backend-coming-soon--fatm-back-team.replit.app';
 
     const setMessage = (text, kind = 'success') => {
         message.textContent = text;
